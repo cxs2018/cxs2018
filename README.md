@@ -2,7 +2,7 @@
 
 Hi, I'm Sanmu
 
-a front-end engineer in Beijing
+a front-end engineer in Wuhan
 
 hope we can learn and improve together
 
